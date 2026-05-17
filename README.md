@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Mohan Krishna 👋
+**Data Analyst** — Data Analyst | Aspiring Data Scientist | SQL • Python • Power BI • Machine Learning | Azure Data | Accounting
 
-<!--
-**mohanchitikela8/mohanchitikela8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🔭 Current project: *ToDO APP* (Automating Sales Dashboard)
+-✅ Creating Sales Automation Report
+-🌱 Learning: SQL • Python • Power BI • Machine Learning | Azure Data 
+-🌐 Portfolio/LinkedIn:https://www.linkedin.com/in/mohankrishnachitikela/  • 📫 mohanchitikela8@gmail.com
 
-Here are some ideas to get you started:
+## Tech
+Data Analyst | Aspiring Data Scientist | SQL • Python • Power BI • Machine Learning | Azure Data | Accounting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (Pinned below)
+1. ToDO App – Automating Sales Dashboard
+2. Power BI Interactive Dashboard
+3. Machine Learning Projects
